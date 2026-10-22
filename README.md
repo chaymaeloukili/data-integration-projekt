@@ -12,7 +12,7 @@ Gruppenprojekt im Modul **DIS 3.3 Data Integration** (Timo Breuer), TH Köln, Wi
 | Name | GitHub |
 |---|---|
 | Ülkü Arslan | @[GitHub-Name] |
-| Hafssa Zainou | @[GitHub-Name] |
+| Hafssa Zainou | @hafssazainou  |
 | Aqsa Shaikh | @[GitHub-Name] |
 | Chaymae Loukili | @chaymaeloukili |
 
