@@ -1,4 +1,4 @@
-# Cinema Visits in Germany (2000–2025) 🎬
+# Cinema Visits in Germany (2000–2025) 
 
 Group project for the module DIS 3.3 Data Integration (Timo Breuer), TH Köln, winter semester 2026/27.
 
