@@ -1,9 +1,29 @@
-# Nutzung von KI-Werkzeugen
+# Use of AI Tools
 
-In diesem Projekt nutzen wir KI-Werkzeuge als Hilfe. Die Recherche, die Auswahl der Quellen und alle inhaltlichen Entscheidungen machen wir selbst. Alle Quellen, Zahlen und Lizenzen prüfen wir an der Originalquelle.
+AI tools were used as support in this project. The topic, the research, the choice of sources and all decisions were made by the group members. All sources, numbers and licences were checked against the original source.
 
-| Datum | Person | Werkzeug | Wofür als Hilfe genutzt |
+**Each group member has their own table below.** Please only add rows to your own table, with the date, what the AI did and what you did yourself.
+
+## Chaymae Loukili
+
+| Date | Tool | What the AI did | What I did myself |
 |---|---|---|---|
-| 22.10.2026 | Chaymae Loukili | Claude (Anthropic) | Erklärung von Fachbegriffen, Hinweise zur Quellen- und Lizenzprüfung, Strukturierung der Quellentabelle, Textentwürfe (E-Mail an die FFA, README-Entwurf). Quellen selbst gesucht, gelesen und geprüft. |
+| 22.10.2026 | Claude | Explained terms, gave tips for checking sources and licences, drafts for the FFA email and the first README | Chose the topic, found and checked the sources (Q1–Q7) and their licences, made the source table, sent the email to the FFA |
+| 23.10.2026 | Claude | Template for the group's Notion page | Presented my results in the group meeting, set up the Notion page |
+| 25.10.2026 | Claude | Formatted the task list for Notion | Took part in the group meeting, wrote down the tasks |
+| 31.10.2026 | Claude | Summarised the FFA reply, suggested the folder structure, wrote the English README files, copied the numbers from the FFA PDFs and PowerPoint into CSV files | Got permission and data from the FFA, decided what may be uploaded, created the folders, checked and uploaded all files |
 
-Jedes Gruppenmitglied ergänzt eine neue Zeile, wenn es KI nutzt.
+## Ülkü Arslan
+
+| Date | Tool | What the AI did | What I did myself |
+|---|---|---|---|
+
+## Hafssa Zainou
+
+| Date | Tool | What the AI did | What I did myself |
+|---|---|---|---|
+
+## Aqsa Shaikh
+
+| Date | Tool | What the AI did | What I did myself |
+|---|---|---|---|
