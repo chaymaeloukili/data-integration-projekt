@@ -8,10 +8,8 @@ AI tools were used as support in this project. The topic, the research, the choi
 
 | Date | Tool | What the AI did | What I did myself |
 |---|---|---|---|
-| 22.10.2026 | Claude | Explained terms, gave tips for checking sources and licences, drafts for the FFA email and the first README | Chose the topic, found and checked the sources (Q1–Q7) and their licences, made the source table, sent the email to the FFA |
-| 23.10.2026 | Claude | Template for the group's Notion page | Presented my results in the group meeting, set up the Notion page |
-| 25.10.2026 | Claude | Formatted the task list for Notion | Took part in the group meeting, wrote down the tasks |
-| 31.10.2026 | Claude | Summarised the FFA reply, suggested the folder structure, wrote the English README files, copied the numbers from the FFA PDFs and PowerPoint into CSV files | Got permission and data from the FFA, decided what may be uploaded, created the folders, checked and uploaded all files |
+| 22.10.2026 | Claude Opus 5.5 (Anthropic) | Explained terms, gave tips for checking licences, helped with the wording of the FFA email and the first README | Chose the topic, found and checked the sources (Q1–Q7) and their licences, made the source table, sent the email to the FFA |
+| 31.10.2026 | Claude Opus 5.5 (Anthropic) | Summarised the FFA reply, wrote the English README texts, copied the numbers from the FFA PDFs and PowerPoint into CSV files | Got permission and data from the FFA, planned the repository structure (raw/processed data, team folders), decided what may be uploaded, created the folders, checked and uploaded all files |
 
 ## Ülkü Arslan
 
