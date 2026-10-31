@@ -1,0 +1,6 @@
+year,population_ffa,tickets,revenue_eur,avg_ticket_price_eur,cinema_companies,locations,venues,screens,seats,tickets_german_films_million,market_share_german_films_percent,tickets_3d_million,source_id,source
+2021,83222442,42050598,373155796,8.87,1228,939,1723,4931,789688,8.9,21.7,3.1,Q1,"Filmförderungsanstalt (FFA), Das Kinojahr 2025, p. 6, 8, 9"
+2022,84270625,77974747,721988443,9.26,1219,939,1730,4911,777844,20.5,27.0,8.5,Q1,"Filmförderungsanstalt (FFA), Das Kinojahr 2025, p. 6, 8, 9"
+2023,84607016,95652977,929066166,9.71,1214,947,1744,4901,748955,22.4,24.3,11.0,Q1,"Filmförderungsanstalt (FFA), Das Kinojahr 2025, p. 6, 8, 9"
+2024,83465411,90085847,868372426,9.64,1211,951,1722,4842,738235,17.7,20.6,6.1,Q1,"Filmförderungsanstalt (FFA), Das Kinojahr 2025, p. 6, 8, 9"
+2025,83497147,91938547,924011223,10.05,1177,947,1651,4757,758351,24.3,27.4,6.4,Q1,"Filmförderungsanstalt (FFA), Das Kinojahr 2025, p. 6, 8, 9"
