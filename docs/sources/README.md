@@ -25,7 +25,7 @@ Last update: 31.10.2026
 |---|---|
 | Q1 | Tickets sold, box office, average ticket price, number of cinemas. Example: 91.9 million tickets in 2025. |
 | Q2 | Who goes to the cinema: age, how often, cinema compared to streaming. |
-| Q3 | Why people go to the cinema today. Tickets in all cinemas and in arthouse cinemas from 2001 to 2025 (only as a chart). |
+| Q3 | Why people go to the cinema today. Tickets in all cinemas and in arthouse cinemas from 2001 to 2025 (as CSV in data/raw/ffa/). |
 | Q4 | Short summary of Q3. Only for quotes. |
 | Q5 | Short summary of Q2 (age groups). Only for quotes. |
 | Q6 | Population of Germany per year (on 31 December). Needed to calculate tickets per person. |
@@ -36,7 +36,7 @@ Last update: 31.10.2026
 
 | ID | Limitation |
 |---|---|
-| Q1 | Numbers are only in PDFs and must be copied into a table. From 2025, the FFA counts cinemas without drive-ins, open-air cinemas and festivals. So the number of cinemas in 2025 is not directly comparable with earlier years. |
+| Q1 | Numbers are only in PDFs. The years 2021–2025 were copied into a CSV (data/raw/ffa/). From 2025, the FFA counts cinemas without drive-ins, open-air cinemas and festivals. So the number of cinemas in 2025 is not directly comparable with earlier years. |
 | Q2 | Based on a panel of 20,000 people (YouGov), so the numbers are estimates. Until 2018 only German citizens were counted, from 2019 everyone living in Germany. Children under 10 are only counted through adults. |
 | Q3 | The interview part has 77 interviews (10 experts, 57 consumers in Germany, 10 in France). This is small and not representative. The definition of "arthouse cinema" changed in 2009/2010. |
 | Q4, Q5 | Press texts, not data sources. The numbers should be taken from Q2 and Q3. |
