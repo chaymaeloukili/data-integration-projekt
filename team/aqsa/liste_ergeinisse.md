@@ -1,6 +1,6 @@
 # Zeitleiste: Wichtige Ereignisse für den Kinobesuch in Deutschland
 
-Kurze Beschreibung: Wozu dient diese Liste? (1–2 Sätze)
+Die Liste sammelt wichtige Ereignisse, die Kinobesuche in Deutschland beeinflusst haben könnten, etwa den Start von Streaming-Dienste, die Corona-Lockdowns und die Wiederöffnung der Kinos. Sie hilft uns, Veränderung in unseren Daten zeitlich einzuordnen und sinnvoll Zeiträume für die Analyse festzulegen. 
 
 ## Ereignisse
 
