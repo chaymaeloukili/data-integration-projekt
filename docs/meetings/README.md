@@ -17,7 +17,7 @@ The research question has been formulated:
 ## Source Distribution (Deadlines for Cleaning):
 - Aqsa; Q2 (till 22.11)
 - Hafssa; Q6 (till 15.11)
-- Ülkü; Q1 (till 20.11)
+- Ülkü; Q1 (till 20.11) + Letterboxd source
 - Chaymae; Q3 (till 20.11)
 
 ***Checkup Date: 14.11 at 11 am***
