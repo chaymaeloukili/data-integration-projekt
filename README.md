@@ -28,7 +28,7 @@ We look at how cinema visits in Germany have changed since 2001: the rise of str
 | Q2 | Kinobesucher\*innen 2025 | FFA | 2003–2025 | Permission from the FFA |
 | Q3 | Vom Film zum Kinoerlebnis (2026) | FFA | 2001–2025 | Permission from the FFA |
 | Q6 | Population, Germany (12411-0001) | Destatis | 1950–2025 | dl-de/by-2-0 |
-| – | Letterboxd Movie Rating (Kaggle) | Kaggle | until approx. 2021 | CC BY 4.0 |
+| – | Letterboxd Movie Rating | Kaggle | until approx. 2021 | CC BY 4.0 |
 | – | Timeline of events | various | 2001–2025 | see sources |
 
 The FFA allowed us to use and publish their numbers with the source ([permission](docs/sources/ffa_permission.md)). The FFA PDFs are not uploaded.
