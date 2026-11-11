@@ -1,12 +1,12 @@
-# Zeitleiste: Wichtige Ereignisse für den Kinobesuch in Deutschland
+# Timeline: Key Events Affecting Cinema Attendance 
 
-Die Liste sammelt wichtige Ereignisse, die Kinobesuche in Deutschland beeinflusst haben könnten, etwa den Start von Streaming-Dienste, die Corona-Lockdowns und die Wiederöffnung der Kinos. Sie hilft uns, Veränderung in unseren Daten zeitlich einzuordnen und sinnvoll Zeiträume für die Analyse festzulegen. 
+The list collects key events that my habe influenced cinema visits in Germany, such as the launch of streaming services, the COVID-19 lockdowns and the reopening of cinemas. It helps us place changes in our data in the time and define meaningful periods for our analysis. 
 
-## Ereignisse
+## Events
 
-| Datum | Ereignis | Bedeutung für unser Projekt | Quelle |
+| Date | Events | Relevance for our project | Source |
 |---|---|---|---|
-| 26.02.2014 | Amazon Prime Instant Video startet in Deutschland | Erster großer Streaming-Dienst in Deutschland. Ab hier können prüfen, ob sich der Kinobesuche im Streaming-Zeitalter verändert. | [mobiFlip](https://www.mobiflip.de/shortnews/10-jahre-prime-video-amazon-kuendigt-sonderangebote-an/) |
+| 26.02.2014 | Amazon Prime Instant Video launches in Germany | First major streaming service in Germany. From here on, we can check whether cinema attendance changes in the streaming era. | [mobiFlip](https://www.mobiflip.de/shortnews/10-jahre-prime-video-amazon-kuendigt-sonderangebote-an/) |
 | 16.09.2014 | Netflix startet in Deutschland | Mehr Wettbewerb zwischen Streaming-Plattformen erweitert das Unterhaltungsangebot für zu Hause. Wir prüfen, ob der Kinobesuche danach zurückgeht| [prisma.de](https://www.prisma.de/news/Netflix-in-Deutschland-gestartet,1244858) |
 | 24.03.2020 | Disney+ startet in Deutschland | Start fällt in die Zeit der Kinoschließungen wegen Corona. Wir prüfen, ob sich die Menschen in dieser Zeit ans Streaming gewöhnt haben und danach seltner ins Kino gehen | [inFranken.de](https://www.infranken.de/ratgeber/verbraucher/schnaeppchen/disney-startet-heute-in-deutschland-alle-filme-und-serien-im-ueberblick-gratis-fuer-telekom-kunden-art-4979431) |
 | 16.03.2020 | Bund und Länder beschließen Schließung der Kinos (erster Lockdown) | Beginn des Corona Einbruchs: In unseren Daten erwarten wir ab März 2020 einen straken Rückgang der Kinobesuche  Die Jahre 2020 und 2021 markieren wir in der Analyse gesondert. | [Bundesregierung](https://www.bundesregierung.de/breg-de/service/archiv/leitlinien-zum-kampf-gegen-die-corona-epidemie-vom-16-03-2020-1730942) |
