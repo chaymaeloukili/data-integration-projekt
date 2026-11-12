@@ -1,6 +1,6 @@
 # Hafssa's work folder
 
-Personal Research notes for the group project. Shared results can be found in docs/, notebooks/, scripts/ and data/.
+Personal Research notes for the group project. Shared results can be found in [docs/](../../docs/), [notebooks/](../../notebooks/), [scripts/](../../scripts/) and [data/](../../data/).
 
 ## Checking Sources
 
