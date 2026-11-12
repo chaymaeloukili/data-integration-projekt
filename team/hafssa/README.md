@@ -1,4 +1,4 @@
-# Quelle Q6: Google Trends ("Kino" vs. "Netflix")
+# Google Trends ("Kino" vs. "Netflix")
 
 Status: **geprüft, aktuell nicht im Projekt verwendet** (Stand 08.11.2026)
 
@@ -6,7 +6,7 @@ Status: **geprüft, aktuell nicht im Projekt verwendet** (Stand 08.11.2026)
 
 | Feld | Inhalt |
 |---|---|
-| ID | Q6 |
+| ID | Z1 |
 | Anbieter | Google |
 | Link | https://trends.google.de |
 | Art | quantitativ, Zeitreihe |
