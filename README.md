@@ -68,3 +68,9 @@ All sources, limitations and possible bias: [docs/sources](docs/sources/README.m
 ## Use of AI
 
 We document every use of AI tools in [AI_USAGE.md](AI_USAGE.md).
+
+## Team rules
+
+- Nobody pushes to `main`. Every change comes as a pull request on its own branch.
+- A teammate reviews every pull request before it is merged.
+- We write commit messages that say what changed and why.
