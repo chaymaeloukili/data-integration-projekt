@@ -78,3 +78,4 @@ The raw data is not in this repository. The FFA reports are PDFs from [ffa.de](h
 - Nobody pushes to `main`. Every change comes as a pull request on its own branch.
 - A teammate reviews every pull request before it is merged.
 - We write commit messages that say what changed and why.
+- Every branch starts from an issue and is named `feature/<issue number>-<topic>`, e.g. `feature/5-branch-naming`. The pull request closes the issue with `Closes #<number>`.
