@@ -69,6 +69,10 @@ All sources, limitations and possible bias: [docs/sources](docs/sources/README.m
 
 We document every use of AI tools in [AI_USAGE.md](AI_USAGE.md).
 
+## How to get the data
+
+The raw data is not in this repository. The FFA reports are PDFs from [ffa.de](https://www.ffa.de/broschueren.html), and the population data is a CSV from [GENESIS-Online](https://genesis.destatis.de) (table 12411-0001). Download dates and details are in `docs/sources/`.
+
 ## Team rules
 
 - Nobody pushes to `main`. Every change comes as a pull request on its own branch.
