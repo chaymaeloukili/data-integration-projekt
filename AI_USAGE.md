@@ -20,6 +20,8 @@ AI tools were used as support in this project. The topic, the research, the choi
 
 | Date | Tool | What the AI did | What I did myself |
 |---|---|---|---|
+| 13.11.2026 | Claude Sonnet 5.5 (Anthropic) | Explained the processes of exploring and cleaning data, suggested code outline, explained the code line by line, looked over the comments and notes, corrected comments and notes, corrected the scripts (ROOT = Path(__file__).resolve().parents[2]) | adjusted the code to fit with the used data, ran the code, checked the results against the raw file, wrote the notes and comments in the notebooks, decided what to keep (2001–2025, `year` as key, 2011 census break documented and not corrected), tested the scripts against the notebooks|
+| 15.11.2026 | Claude Sonnet 5.5 (Anthropic) | Explained the Git and Github steps (branch, issue, pull request) | Did all Git steps in the terminal and on GitHub myself, created the issue and the pull request |
 
 ## Aqsa Shaikh
 
