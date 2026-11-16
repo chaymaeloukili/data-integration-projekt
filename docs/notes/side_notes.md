@@ -15,4 +15,4 @@ Why:
 - The raw data in `data/raw/ffa/` was **not** changed.
 
 Later:
-- `data/raw/ffa/ffa_german_market_share_2001_2025.csv` will be cleaned later, so it can be combined with Letterboxd.
+- `data/raw/ffa/ffa_german_market_share_2001_2025.csv` will only be cleaned if we keep Letterboxd (licence and data still open). To be decided at the check-up on 19.11.2026 or the meeting on 24.11.2026.
