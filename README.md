@@ -10,7 +10,7 @@ We look at how cinema visits in Germany have changed since 2001: the rise of str
 
 ## Research question
 
-**How has cinema attendance in Germany changed between 2001 and 2025, and what role do streaming and the COVID-19 pandemic play?**
+**How will movie attendance in Germany change by 2026?**
 
 | # | Sub-question | Data |
 |---|---|---|
