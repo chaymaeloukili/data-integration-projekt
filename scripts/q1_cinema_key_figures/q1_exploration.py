@@ -11,12 +11,13 @@ from pathlib import Path
 # Define the repository root directory
 project_root = Path(__file__).resolve().parents[2]
 
-# Define the input dataset path
+# Define the original dataset path
 input_file = (
     project_root
     / "data"
-    / "processed"
-    / "q1_ffa_kinojahr_key_figures_2021_2025.csv"
+    / "raw"
+    / "ffa"
+    / "ffa_kinojahr_key_figures_2021_2025.csv"
 )
 
 # Load the dataset
