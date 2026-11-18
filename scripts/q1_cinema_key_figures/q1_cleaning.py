@@ -14,8 +14,9 @@ project_root = Path(__file__).resolve().parents[2]
 input_file = (
     project_root
     / "data"
-    / "processed"
-    / "q1_ffa_kinojahr_key_figures_2021_2025.csv"
+    / "raw"
+    / "ffa"
+    / "ffa_kinojahr_key_figures_2021_2025.csv"
 )
 
 output_file = (
