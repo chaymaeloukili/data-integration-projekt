@@ -1,12 +1,26 @@
+
 import pandas as pd
+from pathlib import Path
 
 # ==================================================
 # DATA EXPLORATION
 # Dataset: FFA Cinema Key Figures (2021–2025)
+# Source: Filmförderungsanstalt (FFA)
 # ==================================================
 
+# Define the repository root directory
+project_root = Path(__file__).resolve().parents[2]
+
+# Define the input dataset path
+input_file = (
+    project_root
+    / "data"
+    / "processed"
+    / "q1_ffa_kinojahr_key_figures_2021_2025.csv"
+)
+
 # Load the dataset
-df = pd.read_csv("ffa_kinojahr_key_figures_2021_2025.csv")
+df = pd.read_csv(input_file)
 
 
 # --------------------------------------------------
