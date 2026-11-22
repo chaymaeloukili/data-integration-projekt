@@ -28,4 +28,5 @@ AI tools were used as support in this project. The topic, the research, the choi
 ## Aqsa Shaikh
 
 | Date | Tool | What the AI did | What I did myself |
-| 2026-11-22 | Claude | Q2 exploration and cleaning | Asked for step-by-step guidance and code to explore and clean the four Q2 files | `q2_exploration.ipynb`, `q2_cleaning.ipynb`, `q2_ffa_visitors_clean.csv` | Typed all code and notes myself, translated notes to English with help, own cleaning decisions (keep NaN, drop metadata, mark method change 2019) | Ran all cells, checked values against the FFA PDF (p. 16, 58), assert checks in the cleaning notebook |
+|---|---|---|---|
+| 2026-11-22 | Claude | Q2 exploration and cleaning | Asked for step-by-step guidance and code to explore and clean the four Q2 files | `q2_explore.ipynb`, `q2_clean.ipynb`, `q2_ffa_visitors_clean.csv` | Typed all code and notes myself, translated notes to English with help, own cleaning decisions (keep NaN, drop metadata, mark method change 2019) | Ran all cells, checked values against the FFA PDF (p. 16, 58), assert checks in the cleaning notebook |
