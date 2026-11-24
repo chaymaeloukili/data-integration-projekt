@@ -1,3 +1,42 @@
+## Meeting 24.11.2026
+
+### Next step: context first, then analysis
+
+- Before we analyse, we need to understand the context of the cleaned data and connect it.
+- Everyone looks at the cleaned data of the [FFA tickets](https://github.com/chaymaeloukili/data-integration-projekt/tree/main/notebooks/q3_ffa_tickets) and at the questions at the end of each notebook, and checks the numbers.
+- From this we first build a **timeline as a CSV file**, so that the sources can be linked. It lists how the numbers changed and when.
+- For each change we research possible reasons: articles and other sources we are allowed to use (always check the license), indications. We do not have to find *the* reason. The aim is to collect what *could* explain a rise or fall.
+- [Tickets table](https://github.com/chaymaeloukili/data-integration-projekt/tree/main/notebooks/q3_ffa_tickets) and [pricing table](https://github.com/chaymaeloukili/data-integration-projekt/tree/main/notebooks/q2_ffa_visitors): find out the history of what happened in which row, where the ups and downs are.
+- The [ticket prices](https://github.com/chaymaeloukili/data-integration-projekt/tree/main/notebooks/q2_ffa_visitors) from Aqsa's and [Ülkü's data](https://github.com/chaymaeloukili/data-integration-projekt/tree/main/scripts/q1_cinema_key_figures) can be compared because the data might be similar.
+- Build a timeline of the ups and downs of ticket prices **and** ticket sales at the same time, and write it down.
+- Order: first the context, then we know how to continue, and only then the analysis.
+
+### Next dates
+
+| Date | Time | Where |
+|---|---|---|
+| Sunday, 06.12.2026 | 12:00 | online, short check-up |
+| Tuesday, 15.12.2026 | 15:00 | at the university, check-up |
+
+*If labs need the whole group, or for questions and help regarding our project: tell the others.*
+
+### Tasks per person
+
+| Person | Task | Deadline |
+|---|---|---|
+| Aqsa, Hafssa | Look at the cleaned FFA ticket data and the questions at the end of the notebooks, check the numbers | 06.12.2026 |
+| Aqsa, Hafssa | Timeline as CSV (ticket prices and ticket sales, find indications with sources) | 15.12.2026 |
+
+### Tasks for everyone
+
+| Task | Deadline |
+|---|---|
+| Online check-up | Sunday, 06.12.2026, 12:00 |
+| Meeting at the university: check-up | Tuesday, 15.12.2026, 15:00 |
+| Write changes that others do not know about in the side notes in `docs/` | always |
+| Document AI use in your own table in `AI_USAGE.md` | always |
+
+---
 ## Meeting 14.11.2026
 
 ### Labs
@@ -64,8 +103,8 @@ Which data is combined and which research question it answers is already clear (
 | Document AI use in your own table in `AI_USAGE.md` | always |
 
 ---
-# Meeting at 08.11.2026
-## Research Question:
+## Meeting at 08.11.2026
+### Research Question:
 The research question has been formulated:
 **How will movie attendance in Germany change by 2026?**
 
@@ -80,7 +119,7 @@ The research question has been formulated:
 | 5 | Compare movie theater attendance in 2014 with that from 2014–2019—that is, before and after the launch of Amazon Prime and Netflix. We’re deliberately excluding the COVID-19 years from this comparison. |
 
 
-## Source Distribution (Deadlines for Cleaning):
+### Source Distribution (Deadlines for Cleaning):
 - Aqsa; Q2 (till 22.11)
 - Hafssa; Q6 (till 15.11)
 - Ülkü; Q1 (till 20.11) + Letterboxd source
