@@ -6,10 +6,15 @@ Personal Research notes for the group project. Shared results can be found in [d
 
 This is a source that I checked for license and usefulness. As of now it will not be used in the group project. It has its own ID (Z1). The ID used to be Q6 but it was renamed so it doesn't clash with our project source Q6 in docs/sources/. 
 
-
 | ID | Source | Status | File |
 |---|---|---|---|
 | Z1 | Google Trends ("Kino" vs. "Netflix") | checked, not used | [google_trends.md](google_trends.md) |
+
+## Course notes
+
+| Topic | File |
+|---|---|
+| Integrate: what to do after Clean (joins, granularity, reusability) | [integrate_notes.md](integrate_notes.md) |
 
 
 ## Notes
