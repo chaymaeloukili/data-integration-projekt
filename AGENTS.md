@@ -16,7 +16,7 @@ We have no `requirements.txt` yet. Until then:
   - macOS: `python3 -m venv .venv` and `source .venv/bin/activate`
   - Windows: `python -m venv .venv` and `.venv\Scripts\activate.bat`
 - Install the packages: `python -m pip install pandas matplotlib jupyter`
-- Run each script from the main folder of the repository, e.g. `python scripts/q1_cinema_key_figures/q1_cleaning.py`.
+- Run each script from the main folder of the repository, e.g. `python scripts/q3_clean.py`.
 - Open notebooks in VS Code or with `jupyter notebook`, and run them from top to bottom.
 - Tests: none yet. When we add them, they run with `python -m pytest`.
 
@@ -101,7 +101,7 @@ Raw data lives in `data/raw/<source>/`, cleaned data in `data/processed/`. Every
 - Check the number of rows before and after filtering or merging.
 - Preserve the original units and document all conversions.
 - Do not change column names without explaining the changes.
-- Check that datasets use compatible years, country names and units before merging.
+- Check that datasets use same key (`year`, an integer in every file) and compatible units from merging.
 - Do not treat missing values as zero unless this is explicitly justified.
 
 ### 3. Privacy and Data Sources
