@@ -1,9 +1,9 @@
-# Clean Destatis table 12411-0001 -> data/processed/q6_destatis_population.csv. Run: python scripts/q6_destatis_population/02_clean.py
+# Clean Destatis table 12411-0001 -> data/processed/q6_destatis_population.csv. Run: python scripts/q6_clean.py
 from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw" / "destatis" / "12411-0001_de.csv"
 OUT = ROOT / "data" / "processed" / "q6_destatis_population.csv"
 
